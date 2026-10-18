@@ -1,8 +1,12 @@
+<div align="center">
+
 # 타이타닉 승객 생존 여부 예측
 
 <p align="center">
   <img src="Resources/Thumbnail.png" alt="타이타닉 생존 예측 — 데이터 분석과 머신러닝 프로젝트" width="100%">
 </p>
+
+</div>
 
 **데이터를 살펴보고, 예측에 사용할 특징을 구성하고, 여러 머신러닝 모델을 비교한 데이터사이언스 수업 텀 프로젝트입니다.**
 
